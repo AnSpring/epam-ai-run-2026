@@ -1,10 +1,10 @@
 # Model Selection Note
 
 **Date:** 2026-06-08  
-**Author:** Anastazja — Data Quality Engineer  
-**Project:** Personal learning project — EPAM AI Run Mission 2026 / Bootcamp 4.0  
+**Author:** Anastazja Bobrowa - Data Quality Engineer  
+**Project:** Personal learning project - EPAM AI Run Mission 2026 / Bootcamp 4.0  
 **Task:** Generate a PySpark function that filters out records where `consent_flag` is False or null before writing to the Silver layer in a Medallion architecture on Databricks.  
-**Committed location:** [GitHub repo path / Obsidian vault — to be filled on commit]
+**Committed location:** https://github.com/AnSpring/epam-ai-run-2026/blob/main/katas/model-selection-note.md
 
 ---
 
@@ -106,6 +106,6 @@ If the next course assignments shift toward MD artefact generation rather than P
 
 ## Revision History
 
-| Version | Date | Change |
-|---------|------|--------|
-| 1.0 | 2026-06-08 | Initial commit — Kata 1, Model Selection |
+| Version | Date       | Change                                   |
+| ------- | ---------- | ---------------------------------------- |
+| 1.1     | 2026-06-08 | Initial commit — Kata 1, Model Selection |
