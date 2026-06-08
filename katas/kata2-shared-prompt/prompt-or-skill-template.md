@@ -5,7 +5,7 @@
 **Project:** Personal learning project - EPAM AI Run Mission 2026 / Bootcamp 4.0  
 **Model:** Codex (selected in Kata 1)  
 **DIAL location:** https://chat.lab.epam.com/share/QSLQnvitQNZZJQ4KvMwp97HR5Nr63hyq5hddy8CPRBzxj5Doys6GEyzfzYz2DJHvtnY14qSneN4bJor8iCJsxCcpDipgBN5Xxn2ER61Xyze2yF8fwrPtFbrpETDProVNNPLyjsQNVUpN5PucZQd1MtE56**Committed 
-**Location:** https://github.com/AnSpring/epam-ai-run-2026
+**Location:** https://github.com/AnSpring/epam-ai-run-2026/blob/main/katas/kata2-shared-prompt/prompt-or-skill-template.md
 
 ---
 
