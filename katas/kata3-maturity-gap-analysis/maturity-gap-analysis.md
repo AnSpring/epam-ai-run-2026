@@ -3,7 +3,7 @@
 **Date:** 2026-06-08  
 **Author:** Anastazja Bobrowa - Data Quality Engineer  
 **Project:** Personal learning project — EPAM AI Run Mission 2026 / Bootcamp 4.0  
-**Committed location:** [GitHub repo path after commit]
+**Committed location:** https://github.com/AnSpring/epam-ai-run-2026/blob/main/katas/kata3-maturity-gap-analysis/maturity-gap-analysis.md
 
 ---
 
